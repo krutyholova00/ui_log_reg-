@@ -1,0 +1,14 @@
+#success_message{ display: none;}
+.footer{
+  background-color: #101010;
+  min-height: 200px;
+  margin-top: 125px;
+}
+.navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: #48444c !important;
+}
+.navbar-nav>li>a {
+    color: #fff!important;
+    background-color: #403e3e !important;
+}
